@@ -1,4 +1,4 @@
-const usernames = ["S4nt1ag", "weilemann", "volneiNeves", "Artoda", "Arawns1", "RodolphoGLC", "JoaoMarcoPiccoliCardoso", "luizitosuares", "DriRSantos", "BrenoRaeder"];
+const usernames = ["S4nt1ag", "weilemann", "volneiNeves", "Artoda", "Arawns1", "RodolphoGLC", "JoaoMarcoPiccoliCardoso", "luizitosuares", "DriRSantos", "BrenoRaeder", "boubeejul"];
 const apiBaseUrl = "https://api.github.com/users/";
 
 const apiUrls = usernames.map(username => apiBaseUrl + username);
