@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+
+body {
+    background-color: black;
+    color: #FFF;
+    align-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.container-body {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    justify-content: center;
+    margin: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.inicio {
+    display: flex;
+    height: auto;
+    flex-flow: column wrap;
+    align-content: space-between;
+}
+
+.perfil-logo {
+    vertical-align: middle;
+    border-style: none;
+    width: 40%;
+    height: auto;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border-radius: 50%;
+}
+
+.perfil-logo:hover {
+    vertical-align: middle;
+    border-style: none;
+    width: 50%;
+    height: auto;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: right;
+    margin-top: 40px;
+}
+
+.nome {
+    color: #552383;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.nome:hover {
+    text-decoration: underline;
+}
+
+
+.sobreMim {
+    text-align: right;
+}
+
+.euSobre {
+    text-align: right;
+}
