@@ -26,4 +26,4 @@ Repositório desenvolvido durante a matéria de Desenvolvimento Web
 https://s4nt1ag.github.io/DesenvolvimentoWeb-residencia/aulas/aula1/desafio
 
 - desafio curriculo em react: -> 
-https://desenvolvimento-web-residencia.vercel.app/
+https://desenvolvimento-web-residencia-curriculo.vercel.app/
