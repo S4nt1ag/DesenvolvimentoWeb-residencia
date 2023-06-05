@@ -1,25 +1,23 @@
-import { Nome } from "./Nome";
-import { SobreMim } from "./SobreMim";
-import { EuSobre } from "./EuSobre";
-import { Perfil } from "./Perfil";
+import { Formacao } from "./components/Formacao";
+import { Experiencia } from "./components/Experienca";
+import { Barra } from "./components/Barra";
+import { TopoPerfil } from "./components/TopoPerfil";
 import './App.css'
 
 function App() {
   return (
     <div className="container-body">
       <header>
-        <button>oi</button>
+  
       </header>
-      <div className="inicio">
-        <div className="imagem">
-          <Perfil />
-        </div>
-        <div className="titulo">
-          <Nome />
-          <SobreMim />
-          <EuSobre />
-        </div>
+      <Barra />
+      <TopoPerfil />
+      <Barra />
+      <div className="meio">
+        <Formacao />
+        <Experiencia />
       </div>
+      <Barra />
     </div>
   );
 }

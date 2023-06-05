@@ -1,4 +1,4 @@
-import black from './img/black.png';
+import black from '../img/black.png';
 
 export function Perfil (){
     return (
