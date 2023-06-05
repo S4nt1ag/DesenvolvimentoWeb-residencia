@@ -24,3 +24,6 @@ Repositório desenvolvido durante a matéria de Desenvolvimento Web
  ## links 
 - desafio de listar nomes e imagens: -> 
 https://s4nt1ag.github.io/DesenvolvimentoWeb-residencia/aulas/aula1/desafio
+
+- desafio curriculo em react: -> 
+https://desenvolvimento-web-residencia.vercel.app/
