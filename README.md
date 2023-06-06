@@ -27,3 +27,6 @@ https://s4nt1ag.github.io/DesenvolvimentoWeb-residencia/aulas/aula1/desafio
 
 - desafio curriculo em react: -> 
 https://desenvolvimento-web-residencia-curriculo.vercel.app/
+
+- desafio de counter em react: ->
+https://desenvolvimento-web-residencia-counter.vercel.app/
