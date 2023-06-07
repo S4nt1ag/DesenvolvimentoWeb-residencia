@@ -30,3 +30,6 @@ https://desenvolvimento-web-residencia-curriculo.vercel.app/
 
 - desafio de counter em react: ->
 https://desenvolvimento-web-residencia-counter.vercel.app/
+
+- projeto pokedex: -> 
+https://s4nt1ag-pokedex.vercel.app/
