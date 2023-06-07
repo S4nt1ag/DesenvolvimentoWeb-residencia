@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import './style.css';
 import pokemonData from '../../mock/data.json';
 
 export function Home() {
